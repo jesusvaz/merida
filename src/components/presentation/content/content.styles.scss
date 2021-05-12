@@ -1,0 +1,32 @@
+*{
+    padding:  20px;
+}
+
+.content{
+    display: flex;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+
+@media only screen and (max-width:550px){
+    .content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        &.responsive {
+            max-width: 100%;
+            
+            height: auto;
+          }
+        }
+} 
