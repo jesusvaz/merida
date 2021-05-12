@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/merida/static/css/main.daca4891.chunk.css",
+    "main.js": "/merida/static/js/main.f7d0985f.chunk.js",
+    "main.js.map": "/merida/static/js/main.f7d0985f.chunk.js.map",
+    "runtime-main.js": "/merida/static/js/runtime-main.edbb4b18.js",
+    "runtime-main.js.map": "/merida/static/js/runtime-main.edbb4b18.js.map",
+    "static/js/2.99888bcb.chunk.js": "/merida/static/js/2.99888bcb.chunk.js",
+    "static/js/2.99888bcb.chunk.js.map": "/merida/static/js/2.99888bcb.chunk.js.map",
+    "static/js/3.b9dad3cd.chunk.js": "/merida/static/js/3.b9dad3cd.chunk.js",
+    "static/js/3.b9dad3cd.chunk.js.map": "/merida/static/js/3.b9dad3cd.chunk.js.map",
+    "index.html": "/merida/index.html",
+    "static/css/main.daca4891.chunk.css.map": "/merida/static/css/main.daca4891.chunk.css.map",
+    "static/js/2.99888bcb.chunk.js.LICENSE.txt": "/merida/static/js/2.99888bcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edbb4b18.js",
+    "static/js/2.99888bcb.chunk.js",
+    "static/css/main.daca4891.chunk.css",
+    "static/js/main.f7d0985f.chunk.js"
+  ]
+}
